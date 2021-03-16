@@ -1,6 +1,4 @@
-﻿
-
-namespace productorPp.Models
+﻿namespace fnConsumidorPp.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
